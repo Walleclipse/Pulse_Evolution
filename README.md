@@ -22,7 +22,7 @@ The GUI is as following:
 
 After setting the parameter of the pulse, fiber and propogation, click the `Run` bottom.  
 
-The sample result is as following: 
+The sample result is as following  (blue curve represents input pulse, red curve represents output pulse): 
 
 <img src="https://github.com/Walleclipse/Pulse_Evolution/blob/master/source/img/result.png"  width=600>
 
