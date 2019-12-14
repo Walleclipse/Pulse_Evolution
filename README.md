@@ -1,5 +1,5 @@
-# Pulse_Evolution
-## Python moduling for ultrafast optics, and supercontinuum generation.
+# Pulse Evolution
+## Python moduling for ultrafast optics, and supercontinuum generation
 <img src="https://github.com/Walleclipse/Pulse_Evolution/blob/master/source/img/gui.gif" width=500 >
 
 This project provides very easy way to simulating supercontinuum generati or pulse evolution in PCF fibers. It provides many functionalities for representing pulses of lasers, fibers,  and methods for simulating four-wave-mixing processes such as supercontinuum generation. Also, It provides a simple and easy-to-use GUI.
