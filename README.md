@@ -6,14 +6,15 @@ This project provides very easy way to simulating supercontinuum generati or pul
 
 ## How to use it
 There are two ways to run the project.
-1 . Run executable file.
-* Download executable file from 
-* Run `pulse_evolution.exe`
 
-2. Run Python file.
-* `git clone https://github.com/Walleclipse/Pulse_Evolution.git`
-* `pip install -r requirements.txt`
-* `python main.py`
+1 . Run executable file.
+  * Download executable file from 
+  * Run `pulse_evolution.exe`
+
+2 . Run Python file.
+  * `git clone https://github.com/Walleclipse/Pulse_Evolution.git`
+  * `pip install -r requirements.txt`
+  *  `python main.py`
 
 The GUI is as following:
 
