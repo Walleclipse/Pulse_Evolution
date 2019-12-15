@@ -103,7 +103,7 @@ def main():
 	params['dr'] = create_entry(window, 'Duty Ratio (optional)', 0.53, base_x, base_y+340)
 	params['pitch'] = create_entry(window, 'Pitch [um] (optional)', (3.1, 3.0, 2.9), p_base_x, base_y+340)
 	# propogate params
-	tk.Label(window, text='Propogation Parameter', fg='blue', font=('Arial', 12)).place(x=350, y=base_y+380)
+	tk.Label(window, text='Propagation Parameter', fg='blue', font=('Arial', 12)).place(x=350, y=base_y+380)
 	params['raman'] = create_combobox(window, 'Raman', ('True', 'False'), base_x, base_y+410)
 	params['steep'] = create_combobox(window, 'Self Steeping', ('True', 'False'), p_base_x, base_y+410)
 	params['steps'] = create_entry(window, 'Number of Steps', 100, base_x, base_y+440)
