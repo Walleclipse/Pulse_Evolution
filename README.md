@@ -1,8 +1,8 @@
 # Pulse Evolution
-## Python moduling for ultrafast optics, and supercontinuum generation
+## Python modeling for ultrafast optics and supercontinuum generation
 <img src="https://github.com/Walleclipse/Pulse_Evolution/blob/master/source/img/gui.gif" width=500 >
 
-This project provides very easy way to simulating supercontinuum generati or pulse evolution in PCF fibers. It provides many functionalities for representing pulses of lasers, fibers,  and methods for simulating four-wave-mixing processes such as supercontinuum generation. Also, It provides a simple and easy-to-use GUI.
+This project provides a very easy way to simulate supercontinuum generation or pulse evolution in PCF fibers. It provides many functionalities for representing pulses of lasers, fibers,  and methods for simulating four-wave-mixing processes such as supercontinuum generation. Also, It provides a simple and easy-to-use GUI.
 
 ## How to use it
 There are two ways to run the project.
@@ -16,13 +16,13 @@ There are two ways to run the project.
   * `pip install -r requirements.txt`
   *  `python main.py`
 
-The GUI is as following:
+The GUI is as follows:
 
 <img src="https://github.com/Walleclipse/Pulse_Evolution/blob/master/source/img/ui.png"  width=600>
 
-After setting the parameter of the pulse, fiber and propogation, click the `Run` bottom.  
+After setting the parameter of the pulse, fiber and propagation, click the `Run` bottom.  
 
-The sample result is as following  (blue curve represents input pulse, red curve represents output pulse): 
+The sample result is as follows (the blue curve represents input pulse, the red curve represents output pulse): 
 
 <img src="https://github.com/Walleclipse/Pulse_Evolution/blob/master/source/img/result.png"  width=600>
 
