@@ -8,7 +8,7 @@ This project provides a very easy way to simulate pulse evolution fibers. It pro
 There are two ways to run the project.
 
 1 . Run executable file.
-  * Download executable file from [here](https://pan.baidu.com/s/1b4K4iEmiHYbYm4HQAWyA4g)
+  * Download executable file from [here](https://pan.baidu.com/s/1rPRhpnJGCR_TN4qjVO2qDA)
   * Run `pulse_evolution.exe`
 
 2 . Run Python file.
